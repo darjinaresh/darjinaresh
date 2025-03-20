@@ -1,6 +1,3 @@
-# 💫 About Me:
-👋 Hi! I'm Naresh Darji.<br><br>🔭 I’m currently working on improving my problem-solving skills and building real-world projects.<br>👯 I’m looking to collaborate on open-source projects and innovative web applications.<br>🤝 I’m looking for help with mastering advanced system design concepts.<br>🌱 I’m currently learning advanced DSA, AI-powered applications, and Spring Boot.<br>💬 Ask me about Data Structures & Algorithms, Competitive Programming, and Full-Stack Web Development.<br>⚡ Fun fact: I love debugging complex problems and enjoy optimizing code for efficiency!
-
 <h1 align="center">Hi 👋, I'm Naresh Darji</h1>
 <h3 align="center">A passionate backend developer</h3>
 ## 🌐 Socials:
